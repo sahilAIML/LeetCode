@@ -51,28 +51,6 @@ Each problem is organized by its **LeetCode Question Number** and **Problem Name
 
 ---
 
-# 🌐 My LeetCode Profile
-
-<div align="center">
-
-<a href="https://leetcode.com/YOUR_USERNAME/" target="_blank">
-<img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" width="120"/>
-</a>
-
-### 🚀 Solving one problem every day.
-
-**Small progress every day leads to big achievements.**
-
-<br>
-
-<a href="https://leetcode.com/YOUR_USERNAME/" target="_blank">
-<img src="https://img.shields.io/badge/Open-My%20LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-</div>
-
----
-
 # 📂 Repository Structure
 
 Every solution follows a simple naming convention:
