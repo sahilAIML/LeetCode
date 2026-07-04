@@ -25,7 +25,28 @@ I'm solving problems regularly to strengthen my understanding of:
 - 📈 Coding Interview Preparation
 
 Every solution is organized with its **LeetCode question number** and **problem name**, making it easy to navigate and revisit.
+<h2 align="center">🧩 LeetCode Profile</h2>
 
+<p align="center">
+  <a href="https://leetcode.com/YOUR_USERNAME/" target="_blank">
+    <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" width="120" alt="LeetCode Logo">
+  </a>
+</p>
+
+<p align="center">
+  <b>Solving one problem at a time. 🚀</b><br>
+  Consistency > Perfection 💪
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/YOUR_USERNAME/">
+    <img src="https://img.shields.io/badge/Visit-My%20LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
+  </a>
+</p>
+
+<p align="center">
+  ⭐ Click the logo or the button above to explore my LeetCode profile, solved problems, and coding journey.
+</p>
 ---
 
 ## 📂 Repository Structure
