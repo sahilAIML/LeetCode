@@ -13,11 +13,11 @@
 </p>
 
 <p>
-  <a href="https://leetcode.com/YOUR_USERNAME/" target="_blank">
+  <a href="https://leetcode.com/sahil_067/" target="_blank">
     <img src="https://img.shields.io/badge/Visit%20My-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/sahilAIML">
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
   </a>
 </p>
