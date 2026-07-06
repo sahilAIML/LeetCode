@@ -79,7 +79,8 @@ Question Number - Problem Name
 | 1 | 20 | Valid Parentheses | ✅ |
 | 2 | 26 | Remove Duplicates from Sorted Array | ✅ |
 | 3 | 167 | Two Sum II - Input Array Is Sorted | ✅ |
-| 4 | 977 | Squares of a Sorted Array | ✅ |
+| 4 | 448 | Find All Numbers Disappeared in an Array | ✅ |
+| 5 | 977 | Squares of a Sorted Array | ✅ |
 
 > More solutions coming soon... 🚀
 
