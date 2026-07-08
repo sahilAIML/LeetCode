@@ -82,6 +82,7 @@ Question Number - Problem Name
 | 4 | 268 | Missing Number | ✅ |
 | 5 | 448 | Find All Numbers Disappeared in an Array | ✅ |
 | 6 | 977 | Squares of a Sorted Array | ✅ |
+| 7 | 1351 | Count Negative Numbers in a Sorted Matrix | ✅ |
 
 > More solutions coming soon... 🚀
 
