@@ -94,7 +94,6 @@ Question Number - Problem Name
 - ✅ Solving problems consistently
 - 📚 Learning new algorithms
 - 💻 Improving Java coding skills
-- 🎯 Practicing interview questions
 - 🚀 Building strong DSA fundamentals
 
 ---
