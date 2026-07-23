@@ -76,14 +76,15 @@ Question Number - Problem Name
 
 | S.No | Question No. | Problem Name | Solution |
 |:---:|:------------:|--------------|:-------:|
-| 1 | 20 | Valid Parentheses | ✅ |
-| 2 | 26 | Remove Duplicates from Sorted Array | ✅ |
-| 3 | 167 | Two Sum II - Input Array Is Sorted | ✅ |
-| 4 | 268 | Missing Number | ✅ |
-| 5 | 448 | Find All Numbers Disappeared in an Array | ✅ |
-| 6 | 977 | Squares of a Sorted Array | ✅ |
-| 7 | 1351 | Count Negative Numbers in a Sorted Matrix | ✅ |
-| 8 | 1539 | Kth Missing Positive Number | ✅ |
+| 1 | 14 | Longest Common Prefix | ✅ |
+| 2 | 20 | Valid Parentheses | ✅ |
+| 3 | 26 | Remove Duplicates from Sorted Array | ✅ |
+| 4 | 167 | Two Sum II - Input Array Is Sorted | ✅ |
+| 5 | 268 | Missing Number | ✅ |
+| 6 | 448 | Find All Numbers Disappeared in an Array | ✅ |
+| 7 | 977 | Squares of a Sorted Array | ✅ |
+| 8 | 1351 | Count Negative Numbers in a Sorted Matrix | ✅ |
+| 9 | 1539 | Kth Missing Positive Number | ✅ |
 
 > More solutions coming soon... 🚀
 
